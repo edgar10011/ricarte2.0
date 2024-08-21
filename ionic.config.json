@@ -1,0 +1,7 @@
+{
+  "name": "ionic-redis-auth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
